@@ -1,0 +1,14 @@
+.flutter-plugins
+.flutter-plugins-dependencies
+.metadata
+.packages
+pubspec.lock
+pubspec.yaml
+.dart_tool
+android
+assets
+/build
+images
+ios
+test
+web
